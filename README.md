@@ -1,5 +1,5 @@
 ### About Me
-👋 Hi, I’m Girish Saraf, a Computer Engineering post graduate, and I love developing, designing, and learning about scalable distributed systems. 🙂
+👋 Hi, I’m Girish Saraf, a fellow Software Engineer, and I love developing, designing, and learning about scalable distributed systems. 🙂
 ### My Experience
 💻 I’m interested in Software Engineering, primarily backend-focused, with experience in Full Stack Development. I have experience building scalable backend services in Java (Spring, Maven), Scala (Akka), Python (Django, Flask, Falcon), and JavaScript (Node, Angular) frameworks.
 ### What I am learning currently
